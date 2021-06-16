@@ -8,7 +8,7 @@ def EnglishClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def DataStrClass():
@@ -16,7 +16,7 @@ def DataStrClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def OopsClass():
@@ -24,7 +24,7 @@ def OopsClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def dbmsClass():
@@ -32,7 +32,7 @@ def dbmsClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def rpaClass():
@@ -40,7 +40,7 @@ def rpaClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def automataClass():
@@ -48,7 +48,7 @@ def automataClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 
 def cybersecClass():
@@ -56,6 +56,6 @@ def cybersecClass():
     time.sleep(60) #seconds
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(1800)
+    time.sleep(2700)
     driver.quit()
 

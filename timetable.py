@@ -8,7 +8,7 @@ seventhClass =("15:30")
 
 
 
-#enter links here
+#paste links here
 english = ("https://")
 oops = ("https://")
 dbms = ("https://")
